@@ -22,4 +22,4 @@ The RML2016 dataset from Kaggle contains various labeled images for training and
 ## Refernces:
 This project is based on the methodology described in the paper:
 
--Zhang, J., Zhu, H., Wang, P., & Ling, X. (2021). ATT Squeeze U-Net: A Lightweight Network for Forest Fire Detection and Recognition. IEEE Access. https://doi.org/10.1109/ACCESS.2021.3050628
+- Zhang, J., Zhu, H., Wang, P., & Ling, X. (2021). ATT Squeeze U-Net: A Lightweight Network for Forest Fire Detection and Recognition. IEEE Access. https://doi.org/10.1109/ACCESS.2021.3050628
